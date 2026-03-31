@@ -1,4 +1,4 @@
-# FSA Handbook
+# FSA Launchpad 11ty
 
 A minimal, accessible static site for FSA documentation built with [Eleventy](https://www.11ty.dev/), the [U.S. Web Design System](https://designsystem.digital.gov/), and [Netlify CMS](https://www.netlifycms.org/) for content management.
 

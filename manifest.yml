@@ -1,6 +1,6 @@
 ---
 applications:
-- name: fsa-handbook
+- name: fsa-launchpad
   memory: 128M
   disk_quota: 512M
   instances: 1
