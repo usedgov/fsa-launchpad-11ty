@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PIV Card Acquisition Guide"
-section: onboarding
+section: getting-started
 date: 2026-04-01
 parent_section: "PIV & Credentialing"
 lifecycle_phase: "pre-boarding"
